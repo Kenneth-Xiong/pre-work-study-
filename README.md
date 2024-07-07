@@ -1,2 +1,2 @@
 # pre-work-study-guide
-pre work 
+<img src="./assets/bowtie-cat.png" alt="Profile image of cat wearing a bow tie." />
